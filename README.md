@@ -1,16 +1,12 @@
 <img src="https://user-images.githubusercontent.com/62079355/121505629-9f847180-ca00-11eb-8db6-155e61a091a5.png" align="right" style: height=150 width=150/>
 
 # UI Design to Code using Flutter [![Instagram](https://img.shields.io/twitter/url?label=%40ritiksaxenaofficial&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fritiksaxenaofficial%2F)](https://www.instagram.com/ritiksaxenaofficial/)
-> Connect with me on Instagram @ritiksaxenaofficial
-
-<!-- https://img.shields.io/twitter/url?label=%40ritiksaxenaofficial&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fritiksaxenaofficial%2F -->
+> Connect with me on Instagram <a href='https://www.instagram.com/ritiksaxenaofficial/'>@ritiksaxenaofficial</a>
 
 
-Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
+Repository contains multiple branches in which User Interface Design is converted to code using Flutter framework. The UI is designed by professional designers. 
+Design credits is given in the README.md file of each branch.
 
-
-#### Hello coder,
-This repository 
 
 Go through the repository branches for project source code and resources (check README.md).
 
@@ -33,8 +29,6 @@ Go through the repository branches for project source code and resources (check 
 
 --- 
 [![GitHub stars](https://img.shields.io/github/stars/Ritik-Saxena/Design_to_Code-Flutter?style=social)](https://github.com/Ritik-Saxena/Design_to_Code-Flutter)
-[![GitHub watchers](https://img.shields.io/github/watchers/Ritik-Saxena/Design_to_Code-Flutter?style=social)](https://github.com/Ritik-Saxena/Design_to_Code-Flutter)
-[![GitHub forks](https://img.shields.io/github/forks/Ritik-Saxena/Design_to_Code-Flutter?label=Repo%20Forks&style=social)](https://github.com/Ritik-Saxena/Design_to_Code-Flutter)
 [![GitHub followers](https://img.shields.io/github/followers/Ritik-Saxena?label=Followers&style=social)](https://github.com/Ritik-Saxena?tab=followers)
-
-<!-- https://img.shields.io/github/followers/Ritik-Saxena?label=Followers&style=social -->
+[![GitHub forks](https://img.shields.io/github/forks/Ritik-Saxena/Design_to_Code-Flutter?label=Repo%20Forks&style=social)](https://github.com/Ritik-Saxena/Design_to_Code-Flutter)
+[![GitHub watchers](https://img.shields.io/github/watchers/Ritik-Saxena/Design_to_Code-Flutter?style=social)](https://github.com/Ritik-Saxena/Design_to_Code-Flutter)
