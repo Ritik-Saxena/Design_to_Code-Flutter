@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/62079355/121505629-9f847180-ca00-11eb-8db6-155e61a091a5.png" align="right" style: height=150 width=150/>
 
-# UI Design to Code using Flutter [![Instagram](https://img.shields.io/twitter/url?label=%40ritiksaxenaofficial&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fritiksaxenaofficial%2F)](https://img.shields.io/twitter/url?label=%40ritiksaxenaofficial&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fritiksaxenaofficial%2F)
+# UI Design to Code using Flutter [![Instagram](https://img.shields.io/twitter/url?label=%40ritiksaxenaofficial&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fritiksaxenaofficial%2F)](https://www.instagram.com/ritiksaxenaofficial/)
 > Connect with me on Instagram @ritiksaxenaofficial
 
 <!-- https://img.shields.io/twitter/url?label=%40ritiksaxenaofficial&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fritiksaxenaofficial%2F -->
