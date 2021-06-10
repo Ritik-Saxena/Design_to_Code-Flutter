@@ -30,3 +30,11 @@ Go through the repository branches for project source code and resources (check 
 ### Flutter vs React Native vs Ionic
 - Academind: https://youtu.be/PKRXbLnfXXk 
 - Codeburst.io: [React Native vs. Ionic vs. Flutter: Comparison of Top Cross-Platform App Development Tools](https://codeburst.io/react-native-vs-ionic-vs-flutter-comparison-of-top-cross-platform-app-development-tools-71c8011309ac)
+
+--- 
+[![GitHub stars](https://img.shields.io/github/stars/Ritik-Saxena/Design_to_Code-Flutter?style=social)](https://github.com/Ritik-Saxena/Design_to_Code-Flutter)
+[![GitHub watchers](https://img.shields.io/github/watchers/Ritik-Saxena/Design_to_Code-Flutter?style=social)](https://github.com/Ritik-Saxena/Design_to_Code-Flutter)
+[![GitHub forks](https://img.shields.io/github/forks/Ritik-Saxena/Design_to_Code-Flutter?label=Repo%20Forks&style=social)](https://github.com/Ritik-Saxena/Design_to_Code-Flutter)
+[![GitHub followers](https://img.shields.io/github/followers/Ritik-Saxena?label=Followers&style=social)](https://github.com/Ritik-Saxena?tab=followers)
+
+<!-- https://img.shields.io/github/followers/Ritik-Saxena?label=Followers&style=social -->
