@@ -32,8 +32,8 @@ Design link: https://www.instagram.com/p/CO2WP9vgStq/
 
 ***
 
-[![GitHub stars](https://img.shields.io/twitter/url?label=Star%20Repo&logo=Github&style=social&url=https%3A%2F%2Fgithub.com%2FRitik-Saxena%2FDesign_to_Code-Flutter%2Fedit%2FAmazon-Browser-UI%2F)](https://github.com/Ritik-Saxena/Design_to_Code-Flutter/tree/Amazon-Browser-UI)
-[![GitHub forks](https://img.shields.io/twitter/url?label=Fork%20Repo&logo=Github&style=social&url=https%3A%2F%2Fgithub.com%2FRitik-Saxena%2FDesign_to_Code-Flutter%2Fedit%2FAmazon-Browser-UI%2F)](https://github.com/Ritik-Saxena/Design_to_Code-Flutter/tree/Amazon-Browser-UI)
+[![GitHub stars](https://img.shields.io/twitter/url?label=Star%20Repo&logo=Github&style=social&url=https%3A%2F%2Fgithub.com%2FRitik-Saxena%2FDesign_to_Code-Flutter%2Fedit%2FAmazon-Browser-UI%2F)](https://github.com/Ritik-Saxena/Design_to_Code-Flutter/tree/Flutter/Amazon-Browser-UI)
+[![GitHub forks](https://img.shields.io/twitter/url?label=Fork%20Repo&logo=Github&style=social&url=https%3A%2F%2Fgithub.com%2FRitik-Saxena%2FDesign_to_Code-Flutter%2Fedit%2FAmazon-Browser-UI%2F)](https://github.com/Ritik-Saxena/Design_to_Code-Flutter/tree/Flutter/Amazon-Browser-UI)
 [![GitHub follow](https://img.shields.io/twitter/url?label=Follow&logo=Github&style=social&url=https%3A%2F%2Fgithub.com%2FRitik-Saxena%2FDesign_to_Code-Flutter%2Fedit%2FAmazon-Browser-UI%2F)](https://github.com/Ritik-Saxena?tab=followers)
 [![GitHub watchers](https://img.shields.io/github/watchers/Ritik-Saxena/Design_to_Code-Flutter?style=social)](https://github.com/Ritik-Saxena/Design_to_Code-Flutter)
 
