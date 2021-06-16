@@ -4,11 +4,11 @@
 > Connect with me on Instagram <a href='https://www.instagram.com/ritiksaxenaofficial/'>@ritiksaxenaofficial</a>
 
 
-Repository contains multiple branches in which User Interface Design is converted to code using Flutter framework. The UI is designed by professional designers. 
-Design credits is given in the README.md file of each branch.
+Repository contains multiple directories in which User Interface Design is converted to code using Flutter framework. The UI is designed by professional designers. 
+Design credits is given in the README.md file in each project directory.
 
 
-Go through the repository branches for project source code and resources (check README.md).
+Go through the repository for project source code and resources (check README.md).
 
 ---
 
